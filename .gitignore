@@ -1,0 +1,16 @@
+# Node
+node_modules/
+dist/
+coverage/
+.env
+*.log
+
+# Playwright
+test-results/
+.playwright/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
