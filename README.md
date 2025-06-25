@@ -49,11 +49,11 @@ npm install
 
 npx playwright install
 
+---------------------------------
+Ejecución de pruebas
 
- Ejecución de pruebas
-
-npm run test
-
+npx playwright test
+---------------------------------
 feature: netflix.feature
 gherkin
 
